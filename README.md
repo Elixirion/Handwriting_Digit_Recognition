@@ -1,6 +1,8 @@
 # Handwriting Digit Recognition✍️🔢
 This project focuses on Handwritten Digit Recognition using Machine Learning techniques, specifically Support Vector Machines (SVM). Its objective is to accurately classify handwritten digits (0-9) based on their pixel representations.
 
+---
+
 ## Notebook Information
 
 - Notebook: [Handwritten Digit Recognition using SVM](https://github.com/Elixirion/Handwriting_Digit_Recognition/blob/main/Handwritten_Digit_Recognition_using_SVM.ipynb)
